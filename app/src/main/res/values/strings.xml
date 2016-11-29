@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">napp</string>
+    <string name="nap_1_name">Power Nap</string>
+    <string name="nap_1_info">Less grogginess, more energy.</string>
+    <string name="nap_1_duration">10-20 minutes.</string>
+
+    <string name="nap_2_name">The So-so Nap</string>
+    <string name="nap_2_info">More grogginess, more energy.</string>
+    <string name="nap_2_duration">20 - 30 minutes.</string>
+
+    <string name="nap_3_name">Memory Boost Nap</string>
+    <string name="nap_3_info">More grogginess, more energy, more memory.</string>
+    <string name="nap_3_duration">30-60 minutes.</string>
+
+    <string name="nap_4_name">The Perfect Nap</string>
+    <string name="nap_4_info">Less grogginess, more energy, more creativity, more memory.</string>
+    <string name="nap_4_duration">60-90 minutes.</string>
+
+    <string name="nap_5_name">Poor Life Choice Nap</string>
+    <string name="nap_5_info">More grogginess, less energy, less memory, less creativity.</string>
+    <string name="nap_5_duration">90+ minutes.</string>
+</resources>
